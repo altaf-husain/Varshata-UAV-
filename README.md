@@ -6,7 +6,7 @@ This repository documents the development and configuration of a fixed-wing UAV 
 
 The specific mission for this UAV involves flying a distance of 700 meters while carrying a payload of four milk cartons, demonstrating the aircraft's capability to perform tasks requiring both endurance and payload handling. The design prioritizes efficiency, stability, and adaptability to meet the competition's requirements.
 
-![Varshata UAV - Racing Plane](path/to/varshata-uav.jpg)
+![Varshata UAV - Racing Plane]([path/to/varshata-uav.jpg](https://github.com/altaf-husain/Varshata-UAV-/blob/main/Varsahata%202.jpeg?raw=true))
 
 ### Key Specifications
 - **Wingspan**: 145 cm  
